@@ -16,5 +16,7 @@ Launched the project and kickstarted
 **Day 2**
 Imported data and checked the information in details of the data
 
+**Day 3**
+Cleaned the data with df.dropna() and filtered the data to contain data from year: 2000
 
 ## Insights
