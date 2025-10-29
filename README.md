@@ -4,7 +4,7 @@
 **Climate Data Analysis** project is all about analysing climate data over the past 25 years.
 
 **Timeline** 
-The timeline of this project is from **2000** to **2023**
+The timeline data of this project is from **2000** to **2023**
 
 **Data Source**
 The data come from **OUR WORLD IN DATA**
