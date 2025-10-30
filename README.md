@@ -25,6 +25,9 @@ and plotted a visualisation out of it.<br>
 
 Saved the visualization in visual image folder<br>
 <br>
-<img src='../visual images/global_co2.png' atl="visual representation">
+
+![Visual_representation](https://github.com/Emmanuel-km/CLIMATE-DATA-ANALYSIS/visual_images/global_co2.png)
+
+<img scr="https://github.com/Emmanuel-km/CLIMATE-DATA-ANALYSIS/visual_images/global_co2.png">
 ## Insights
 _The project is currently ongoing, follow along as we make it work_
