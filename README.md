@@ -25,6 +25,6 @@ and plotted a visualisation out of it.<br>
 
 Saved the visualization in visual image folder<br>
 <br>
-![visualized image](../visual images/global_co2.png)
+<img src='../visual images/global_co2.png' atl="visual representation">
 ## Insights
 _The project is currently ongoing, follow along as we make it work_
