@@ -20,9 +20,10 @@ The end result? Is **Climate change**
 
 2. Top emitters of CO<sub>2</sub><br>
 Measures are being taken by respective countries to reduce the emmissions of CO<sub>2</sub>
+![Visual_representation](https://github.com/Emmanuel-km/Climate-Data-Analysis/blob/d89c91707845c26a4a0c69e52975d5831d318f21/visual_images/top_emitters.png)
 
 3. Relation of GDP and the carbon emissions
-
+![Visual_representation](https://github.com/Emmanuel-km/Climate-Data-Analysis/blob/d89c91707845c26a4a0c69e52975d5831d318f21/visual_images/co2_vs_gdp.png)
 
 
 ## Progress
