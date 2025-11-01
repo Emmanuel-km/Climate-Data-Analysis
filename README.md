@@ -28,6 +28,4 @@ Saved the visualization in visual image folder<br>
 
 ![Visual_representation](https://github.com/Emmanuel-km/Climate-Data-Analysis/blob/019417619e1d604fc0ef62f4b3d4698e4de6d299/visual_images/global_co2.png)
 
-<img scr="https://github.com/Emmanuel-km/CLIMATE-DATA-ANALYSIS/visual_images/global_co2.png">
 ## Insights
-_The project is currently ongoing, follow along as we make it work_
