@@ -1,10 +1,10 @@
 # CLIMATE DATA ANALYSIS
 
 ## About this project
-**Climate Data Analysis** project is all about analysing climate data over the past 25 years.
+**Climate Data Analysis** project is all about analysing climate data over the past 22 years.
 
 **Timeline** 
-The timeline data of this project is from **2000** to **2023**
+The timeline data of this project is from **2000** to **2022**
 
 **Data Source**
 The data come from **OUR WORLD IN DATA**
@@ -22,9 +22,14 @@ Cleaned the data with df.dropna() and filtered the data to contain data from yea
 **Day 4**<br>
 Grouped the dataframe by year and the CO<sub>2</sub> 
 and plotted a visualisation out of it.<br>
-
 Saved the visualization in visual image folder<br>
 <br>
+
+**Day 5**
+Added a couple of visualizations <br>
+
+**Day 6**
+Finalysing the readme file <br>
 
 ![Visual_representation](https://github.com/Emmanuel-km/Climate-Data-Analysis/blob/019417619e1d604fc0ef62f4b3d4698e4de6d299/visual_images/global_co2.png)
 
