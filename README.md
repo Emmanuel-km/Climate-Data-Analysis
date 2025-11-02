@@ -28,6 +28,7 @@ Economically, GDP is not a predictor on CO<sub>2</sub><br> emmisions
 ![Visual_representation](https://github.com/Emmanuel-km/Climate-Data-Analysis/blob/d89c91707845c26a4a0c69e52975d5831d318f21/visual_images/co2_vs_gdp.png)
 <br>
 <br>
+
 ## Progress
 **Day 1**<br>
 Launched the project and kickstarted
