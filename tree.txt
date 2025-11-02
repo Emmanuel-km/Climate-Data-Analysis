@@ -1,0 +1,18 @@
+Folder PATH listing
+Volume serial number is 002B-34EE
+C:.
+|   LICENSE
+|   README.md
+|   tree.txt
+|   
++---Code-data-analysis
+|       climate_data_anlysis.ipynb
+|       
++---resource
+|       owid-co2-data-1750-2023.csv
+|       
+\---visual_images
+        co2_vs_gdp.png
+        global_co2.png
+        top_emitters.png
+        
