@@ -1,24 +1,4 @@
 # CLIMATE DATA ANALYSIS
-## Project structure
-''' 
-Climate-Data-Analysis:.
-|   LICENSE
-|   README.md
-|   tree.txt
-|   
-+---Code-data-analysis
-|       climate_data_anlysis.ipynb
-|       
-+---resource
-|       owid-co2-data-1750-2023.csv
-|       
-\---visual_images
-        co2_vs_gdp.png
-        global_co2.png
-        top_emitters.png
-'''
-<br>
-
 
 ## About this project
 **Climate Data Analysis** project is all about analysing climate data over the past 22 years.
