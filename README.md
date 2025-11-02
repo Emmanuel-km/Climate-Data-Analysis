@@ -19,13 +19,15 @@ The end result? Is **Climate change**
 ![Visual_representation](https://github.com/Emmanuel-km/Climate-Data-Analysis/blob/019417619e1d604fc0ef62f4b3d4698e4de6d299/visual_images/global_co2.png)
 
 2. Top emitters of CO<sub>2</sub><br>
-Measures are being taken by respective countries to reduce the emmissions of CO<sub>2</sub>
+Measures are being taken by respective countries to reduce the emmissions of CO<sub>2</sub><br>
 ![Visual_representation](https://github.com/Emmanuel-km/Climate-Data-Analysis/blob/d89c91707845c26a4a0c69e52975d5831d318f21/visual_images/top_emitters.png)
 
-3. Relation of GDP and the carbon emissions
+3. Relation of GDP and the carbon emissions<br>
+The raltionship of GDP and carbon emmisions is uncorilated. It is stastically insignificant. <br>
+Economically, GDP is not a predictor on CO<sub>2</sub><br> emmisions 
 ![Visual_representation](https://github.com/Emmanuel-km/Climate-Data-Analysis/blob/d89c91707845c26a4a0c69e52975d5831d318f21/visual_images/co2_vs_gdp.png)
-
-
+<br>
+<br>
 ## Progress
 **Day 1**<br>
 Launched the project and kickstarted
@@ -42,8 +44,11 @@ and plotted a visualisation out of it.<br>
 Saved the visualization in visual image folder<br>
 <br>
 
-**Day 5**
+**Day 5**<br>
 Added a couple of visualizations <br>
 
-**Day 6**
+**Day 6**<br>
 Finalysing the readme file <br>
+
+**Day 7**<br>
+*Summary* Giving insights of the project
