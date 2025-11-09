@@ -11,24 +11,35 @@ The data come from **OUR WORLD IN DATA**
 The link to the csv file is https://github.com/owid/co2-data?tab=readme-ov-file
 
 ## Project insights
-1. Global emmisions over time<br>
+**1. Global emmisions over time**<br>
 
 Over time CO<sub>2</sub> emmisions have increased though the measures be taking place.<br>
 The CO<sub>2</sub> produced builds up from all the possible and thinkable sources, blocks the UV rays from being radiated out of th atosphere causing heating, which leads to global warming.<br>
 The end result? Is **Climate change**  
 ![Visual_representation](https://github.com/Emmanuel-km/Climate-Data-Analysis/blob/019417619e1d604fc0ef62f4b3d4698e4de6d299/visual_images/global_co2.png)
 
-2. Top emitters of CO<sub>2</sub><br>
+**2. Top emitters of CO<sub>2</sub>**<br>
 Measures are being taken by respective countries to reduce the emmissions of CO<sub>2</sub><br>
 ![Visual_representation](https://github.com/Emmanuel-km/Climate-Data-Analysis/blob/d89c91707845c26a4a0c69e52975d5831d318f21/visual_images/top_emitters.png)
 
-3. Relation of GDP and the carbon emissions<br>
+**3. Relation of GDP and the carbon emissions**<br>
 The raltionship of GDP and carbon emmisions is uncorilated. It is stastically insignificant. <br>
 Economically, GDP is not a predictor on CO<sub>2</sub><br> emmisions 
 ![Visual_representation](https://github.com/Emmanuel-km/Climate-Data-Analysis/blob/d89c91707845c26a4a0c69e52975d5831d318f21/visual_images/co2_vs_gdp.png)
 <br>
 <br>
 
+## How the analysis was done
+Data analysis was done by python incorporated with matplotlib and a pinch of seaborn 
+<br>
+
+The steps taken for data presentation were: 
+<br>
+
+**a. Data sourcing**
+
+<br>
+<br>
 ## Progress
 **Day 1**<br>
 Launched the project and kickstarted
