@@ -40,6 +40,8 @@ The steps taken for data presentation were:
 
 <br>
 <br>
+
+
 ## Progress
 **Day 1**<br>
 Launched the project and kickstarted
