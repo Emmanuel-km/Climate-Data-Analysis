@@ -36,7 +36,37 @@ Data analysis was done by python incorporated with matplotlib and a pinch of sea
 The steps taken for data presentation were: 
 <br>
 
-**a. Data sourcing**
+**a. Data sourcing**<br>
+This was actually sourcing the data required to use in the project.
+<br>
+<br>
+
+
+**b. Data cleaning**<br>
+This where we handle conflicing data, and handle null values plus other types of data handling techniques.
+<br>
+<br>
+
+
+**c. Data filtering**<br>
+Here we query our data to column details needed. 
+<br>
+<br>
+
+
+**d. Data analysis**<br>
+Asking the question does this data make logical structure a few plotting to see if the desired outcome is attained
+<br>
+<br>
+
+
+**e. Data visualisation**<br>
+Desicion making comes handy in this part the pass plots from analysis determine how the data is presented
+<br>
+<br>
+
+
+
 
 <br>
 <br>
